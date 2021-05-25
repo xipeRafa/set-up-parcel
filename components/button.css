@@ -9,13 +9,10 @@
   display: inline-block;
   line-height: 1;
   letter-spacing: .2px;
-  font-size: 16px;
-  padding: 11px 20px;
 }
 .storybook-button--primary {
   color: white;
   background-color: #1ea7fd;
-
 }
 .storybook-button--primary:hover{
   background-color: #66b4e4;
@@ -35,7 +32,8 @@
   padding: 8px 14px;
 }
 .storybook-button--medium {
-
+  font-size: 16px;
+  padding: 11px 20px;
 }
 .storybook-button--large {
   font-size: 16px;
