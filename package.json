@@ -1,6 +1,6 @@
 {
   "name": "parcel_rafaga",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
@@ -32,5 +32,4 @@
     "url": "https://github.com/xipeRafa/set-up-parcel"
   },
   "homepage": "https://github.com/xipeRafa/set-up-parcel"
-
 }
